@@ -1,5 +1,7 @@
 # circuitring
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org) [![Zero dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](#) [![Built by WCN](https://img.shields.io/badge/built%20by-WCN%20Development%20Co-1f6feb.svg)](https://github.com/WCN-DEV-CO)
+
 A tiny, dependency-free **circuit breaker** for Python. Sync & async.
 
 ```python
